@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ap11rva&label=Profile%20views&color=0e75b6&style=flat" alt="ap11rva" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ap11rva" alt="ap11rva" /></a> </p>
-
 - 🌱 I’m currently learning Coursera's **Google Data Analytics**
 
 - 📫 How to reach me **apoorva11srivastava@gmail.com**
