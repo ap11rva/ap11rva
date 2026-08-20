@@ -1,5 +1,8 @@
 # 💫 About Me:
-🔭 I’m currently working on hobby projects and my Master's final capstone project<br>🌱 I’m currently learning Coursera's Google Data Analytics<br>⚡ Fun fact: I am learning Chinese! 你好, 我叫 Apoorva 🙋‍♀️
+🔭 I’m currently working on data engineering and SQL projects<br> 
+🎓 Graduated with my Master's in Data Science from Monash<br>
+🌱 I’m currently working on Unilever's Supply Chain Data Analyst certificate<br>
+⚡ Fun fact: I am learning Chinese! 你好, 我叫 Apoorva 🙋‍♀️<br>
 
 
 ## 🌐 Socials:
